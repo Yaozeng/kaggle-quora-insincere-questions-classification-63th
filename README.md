@@ -21,6 +21,10 @@ simple classifile(pytorch+keras)
 
 lstm+cap+pool
 
+**第六种模型**
+
+![lstm+SFU/Gate](image/图片5.png "lstm+SFU.ipynb")
+
 ## 模型融合
 
 简单blending
