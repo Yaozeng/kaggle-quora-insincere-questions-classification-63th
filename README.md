@@ -11,6 +11,8 @@ simple classifile(pytorch+keras)
 
 **第三种模型**
 
+kaggle quora-insincere-questions-classification 63th final model
+
 ![lstm+kmax+atten+cnn](image/图片3.png "cnn-lstm-atten(2).ipynb")
 
 **第四种模型**
@@ -20,6 +22,10 @@ simple classifile(pytorch+keras)
 **第五种模型**
 
 lstm+cap+pool
+
+**第六种模型**
+
+![lstm+SFU/Gate](image/图片5.png "lstm+SFU.ipynb")
 
 ## 模型融合
 
